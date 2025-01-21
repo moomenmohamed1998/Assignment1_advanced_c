@@ -22,15 +22,16 @@ namespace Assignment1_advanced_c
 
             #region Create a generic class named Range<T> where T represents the type of values.
 
-            int A = 3, B = 5;
-            Console.WriteLine($"A={A}");
-            Console.WriteLine($"B={B}");
-            Console.WriteLine("===============");
-            Helper.Range<int>(ref A, ref B);
-            Console.WriteLine($"A={A}");
-            Console.WriteLine($"B={B}");
+            //int A = 3, B = 5;
+            //Console.WriteLine($"A={A}");
+            //Console.WriteLine($"B={B}");
+            //Console.WriteLine("===============");
+            //Helper.Range<int>(ref A, ref B);
+            //Console.WriteLine($"A={A}");
+            //Console.WriteLine($"B={B}");
 
             #endregion
+
 
 
         }
